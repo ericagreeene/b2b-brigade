@@ -1,7 +1,7 @@
 ---
 title: "BART to Beach Brigade 2019"
 header:
-  image: /assets/images/architecture-buildings-cars-2263687.jpg
+  image: /assets/images/header_black.png
 categories:
   - Layout
   - Uncategorized
@@ -11,12 +11,13 @@ tags:
   - layout
 ---
 
-BART to Bridge Brigade
+BART to Beach Brigade.
+
 Keeping the salmons and centipedes safe since 2021.
 
 ## About the Brigade
 
-Learn about this program ...
+BART to Beach has been a quintessential San Francisco experience since 1912. The joyfulness With tens of thousands of runner each year,
 
 ## How to Sign Up
 
