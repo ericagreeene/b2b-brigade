@@ -1,7 +1,7 @@
 ---
 title: "BART to Beach Brigade 2019"
 header:
-  image: /assets/images/header_dark_2.png
+  image: /assets/images/header_dark_3.png
 categories:
   - Layout
   - Uncategorized
@@ -11,11 +11,9 @@ tags:
   - layout
 ---
 
-Keeping the salmons and centipedes safe since 2021.
+## What is the BART to Beach Brigade?
 
-## About the Brigade
-
-BART to Beach has been a quintessential San Francisco experience since 1912. Running over 7 miles through the center of the city, the race There is nothing like it. The joyfulness With tens of thousands of runner each year,
+Each year, tens of thousands of people run, walk and bike seven miles through the center of San Francisco as part of the annual BART to Beach race. The race represents the joyful, absurd and proud culture of the city. We want all the partipants in BART to Beach to feel safe so this year we are creating a volunteer program for BART to Beach super fans who want to play a role in keeking the event running smoothly.
 
 ## How to Sign Up
 
