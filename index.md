@@ -12,9 +12,11 @@ tags:
 ---
 
 Each year tens of thousands of people run, walk and bike seven miles through the center
-of San Francisco as part of the annual BART to Beach race. The race is joyful and absurd, just like San Francisco.
+of San Francisco as part of the annual BART to Beach race. The race is joyful, absurd and loud -- just like San Francisco.
 
-This year, the BART to Beach organizers are creating a brigade of volunteers to help be our eyes and ears on the ground during the event. The safety of the participants is the upmost importance to us and we want to make sure everyone has the resources they need in case of an incident. If you love BART to Beach as much as we do, please consider applying to be part of the brigade.
+As the organizers of BART to Beach, we are committed to preserving the culture of the event. But the safety of the participants is also of upmost importance. So this year, we are creating a brigade of volunteers to help be our eyes and ears on the ground during the event. We want to make sure we can provide help to all participants if they need it, but we can't be everywhere at once.
+
+If you love BART to Beach as much as we do, please consider applying to be part of The Brigade.
 
 ## So What is The Brigade exactly?
 
@@ -25,7 +27,7 @@ There will be two types of brigade members based on what kind of data connectivi
 
 ### The WiFi Brigade
 <figure>
-	<img src="assets/images/wifi_brigade.png">
+	<img src="assets/images/wifi_brigade.png" style="height:20px">
 </figure>
 
 The WiFi Brigade will be composed of residents and business personnel who can guarantee that they will have wifi connectivity on the day of the race.
