@@ -11,23 +11,34 @@ tags:
   - layout
 ---
 
-Each year, tens of thousands of people run, walk and bike seven miles through the center
-of San Francisco as part of the annual BART to Beach race. The race represents the joyful,
-absurd and proud culture of the city. It’s nutty, but we love that!
+Each year tens of thousands of people run, walk and bike seven miles through the center
+of San Francisco as part of the annual BART to Beach race. The race is joyful and absurd, just like San Francisco.
 
-This year, the BART to Beach organizers are creating a brigade of volunteers to help be our eyes and ears during the event. The safety of the participants is the upmost importance to us and we want to make sure everyone has the resources they need in case of an incident. If you love BART to Beach as much as we do, please consider applying to be part of the brigade.
+This year, the BART to Beach organizers are creating a brigade of volunteers to help be our eyes and ears on the ground during the event. The safety of the participants is the upmost importance to us and we want to make sure everyone has the resources they need in case of an incident. If you love BART to Beach as much as we do, please consider applying to be part of the brigade.
 
 ## So What is The Brigade exactly?
 
-The Brigade is a group of volunteer BART to Beach participants and bystanders who will send in periodic reports about the event over the course of the day. They will need to go through a short training program before the event on basic safety procedures. **We will not be looking for you to handle any incidents, we just want you to know how to report them.**
+The Brigade is a group of volunteer BART to Beach participants and bystanders who will send in periodic reports over text about the event during the course of the day. They will need to go through a short training program before the event on basic safety procedures. **We will not be looking for you to handle any incidents, we just want you to know how to report them.**
 
 There will be two types of brigade members.
 
 
 ### The WiFi Brigade
-The WiFi Brigade will be composed of residents and business personel along the parade route who can guarantee that they will have wifi connectivity on the day of the race.
+<figure>
+	<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg"><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"></a>
+	<figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
+</figure>
+
+<figure>
+	<img src="/assets/images/wifi_brigade.png">
+</figure>
+
+The WiFi Brigade will be composed of residents and business personnel who can guarantee that they will have wifi connectivity on the day of the race. Cellular service can be inconsistent during large events like BART to Beach so we want to guarantee that some of our brigade members will be able to communicate with us regardless of the state of the cellular network.
 
 ## The Walkie Brigade
+<figure>
+	<img src="/assets/images/walkie_brigade.png">
+</figure>
 The Walkie Brigade will be composed of race partipates who
 
 The Brigade is a group of volunteers who will send in updates about the
