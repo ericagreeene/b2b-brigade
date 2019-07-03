@@ -26,11 +26,10 @@ There will be two types of brigade members.
 ### The WiFi Brigade
 <figure>
 	<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg"><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"></a>
-	<figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
 </figure>
 
 <figure>
-	<img src="/assets/images/wifi_brigade.png">
+	<img src="assets/images/wifi_brigade.png">
 </figure>
 
 The WiFi Brigade will be composed of residents and business personnel who can guarantee that they will have wifi connectivity on the day of the race. Cellular service can be inconsistent during large events like BART to Beach so we want to guarantee that some of our brigade members will be able to communicate with us regardless of the state of the cellular network.
