@@ -11,9 +11,10 @@ tags:
   - layout
 ---
 
-Join the BART to Bridge Brigade this year!
+BART to Bridge Brigade
+Keeping the salmons and centipedes safe since 2021.
 
-## About
+## About the Brigade
 
 Learn about this program ...
 
