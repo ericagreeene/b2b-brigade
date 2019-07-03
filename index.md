@@ -27,29 +27,34 @@ There will be two types of brigade members based on what kind of data connectivi
 
 ### The WiFi Brigade
 <figure>
-	<img src="assets/images/wifi_brigade.png">
+	<img src="assets/images/wifi.png">
 </figure>
 
 The WiFi Brigade will be composed of residents and business personnel who can guarantee that they will have wifi connectivity on the day of the race.
 
 ## The Walkie Brigade
-<img src="assets/images/walkie_brigade.png">
+<img src="assets/images/walkie.png">
 
-The Walkie Brigade will be composed of event partipates.
+The Walkie Brigade will be composed of people walking or running in the event. They will either carry cell phones or walkie talkies to send in reports.
 
 The Brigade is a group of volunteers who will send in updates about the
-* shifts
-* sober
-* training
-* why would you do this?
-* age limits
 
-## How to Sign Up
+## How to Apply
 
-We are looking for volunteers to staff two different brigades.
+To apply, please fill out <a=href="">this</a> form. We will be chatting briefly with all the
+applicants so please include either a phone number or email address.
 
 
 ## FAQ
 
+* Will I be able to drink if I am a brigade member?
+We ask that all our brigade members refrain from drinking during the event. But please feel free to celebrate afterwards!
 
-text text text ....
+* Are there any age limits?
+....
+
+* What does the training look like?
+....
+
+* What's in it for me?
+....
