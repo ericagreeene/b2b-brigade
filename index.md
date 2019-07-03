@@ -27,7 +27,7 @@ There will be two types of brigade members based on what kind of data connectivi
 
 ### The WiFi Brigade
 <figure>
-	<img src="assets/images/wifi_brigade.png" style="height:150px; width=150px">
+	<img src="assets/images/wifi_brigade.png">
 </figure>
 
 The WiFi Brigade will be composed of residents and business personnel who can guarantee that they will have wifi connectivity on the day of the race.
