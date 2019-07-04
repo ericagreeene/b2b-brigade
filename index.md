@@ -41,19 +41,21 @@ The Brigade is a group of volunteers who will send in updates about the
 
 ## How to Apply
 
-To apply, please fill out <a=href="">this</a> form. We will be chatting briefly with all the
+To apply, please fill out form. We will be chatting briefly with all the
 applicants so please include either a phone number or email address.
 
 
 ## FAQ
 
-* Will I be able to drink if I am a brigade member?
+* **Will I be able to drink if I am a brigade member?**
+
 We ask that all our brigade members refrain from drinking during the event. But please feel free to celebrate afterwards!
 
-* Are there any age limits?
-....
+* **Are there any age limits?**
 
-* What does the training look like?
+We are primarily looking for brigade members who are over 16, but if you are younger than that and want to participate, please reach out.
+
+* **What does the training look like?**
 ....
 
 * What's in it for me?
