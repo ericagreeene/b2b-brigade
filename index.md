@@ -1,7 +1,7 @@
 ---
 title: "Announcing BART to Beach Brigade"
 header:
-  image: /assets/images/header_dark_4.png
+  image: /assets/images/header_dark_5.png
 categories:
   - Layout
   - Uncategorized
