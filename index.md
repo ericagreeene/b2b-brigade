@@ -58,5 +58,5 @@ We are primarily looking for brigade members who are over 16, but if you are you
 * **What does the training look like?**
 ....
 
-* What's in it for me?
+* **What's in it for me?**
 ....
