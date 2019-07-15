@@ -1,5 +1,5 @@
 remote_theme: "mmistakes/minimal-mistakes@4.16.4"
-title: BART to Beach Brigade
+title: Bridge to Beach Brigade
 minimal_mistakes_skin: contrast
 plugins:
   - jekyll-include-cache
